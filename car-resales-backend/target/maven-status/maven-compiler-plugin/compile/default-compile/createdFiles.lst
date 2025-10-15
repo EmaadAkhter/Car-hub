@@ -1,0 +1,5 @@
+com/carresales/model/Car.class
+com/carresales/repository/CarRepository.class
+com/carresales/service/CarService.class
+com/carresales/controller/CarController.class
+com/carresales/CarResalesApplication.class
